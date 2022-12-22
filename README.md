@@ -23,11 +23,11 @@ Pour cela, vous allez devoir **enrichir votre page HTML avec du .CSS**.
 
 ## Votre mission
 
-* Étape 1 : Créer une nouvelle branche `étape_02_nom_prenom` si c'est pas déjà fait.
+* Étape 1 : Créer une nouvelle branche `étape_02_nom_prenom` si ce n'est pas déjà fait.
 * Étape 2 : Créer un fichier `main.css` et ajoutez-y les effets de style CSS suivants :
   * changer la couleur d'un des textes ;
   * changer l'alignement d'un des textes ;
-  * appliquer une image de fond à la page ;
+  * appliquer une image de fond à la page ;é
   * utiliser une police personnalisée via @font-face ;
   * définir la bordure d'un élément ;
   * définir l'ombre d'un élément.

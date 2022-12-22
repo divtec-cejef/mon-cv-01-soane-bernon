@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background-color: black;
+    font-size: 1.2rem;
+    max-width: 450px;
+    margin: 500px;
+}
+
+h1 {
+    font-weight: bold;
+    color: #0059ff;
+}
+
+h2 {
+    color: blue;
+}
+
+li {
+    color: #fff500
+}
+
+img {
+    width: 64px;
+    height: 64px;
+}
