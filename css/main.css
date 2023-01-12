@@ -27,7 +27,8 @@ img {
     max-width: 100%;
     height: auto;
     width: 64px;
-    align-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 div {
